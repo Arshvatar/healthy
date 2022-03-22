@@ -1,0 +1,74 @@
+* { 
+	margin: 0; 
+	padding: 0; 
+}
+body { 
+	font-size: 62.5%; 
+	font-family: Georgia, serif;
+	background:  #233743; 
+}
+h6 {
+	font-size: 1.4em;
+	margin-bottom: 15px;
+}
+a { color: white; }
+label, li {
+	display: block;
+	padding: 5px;
+	font-size: 1.4em;
+	color: #e3f1fa;
+}
+fieldset {
+	margin: 105px auto;
+	width: 400px;
+	padding: 8px 15px 15px 15px;
+	border: 2px solid white;
+	display: block; 
+	}
+	legend {
+		padding: 4px 6px 4px 6px;
+		border: 1px solid white;
+		font-size: 2.0em;
+		color: #e3f1fa;
+		font-style: italic;
+	}
+ul { list-style: none; margin-bottom: 15px;}
+.results-bar {
+	padding: 10px;
+	color: white;
+	background: url(images/result-bar-bg.png) left center;
+	white-space: nowrap;
+}
+span.total-votes {
+	font-size: 2.6em;
+}
+h1 {
+	font-size: 1.4em;
+	margin-bottom: 15px;
+    color: white;
+}
+
+.losgehts{
+    
+        border-radius: 30px;
+        border: groove 4px rgb(30, 61, 128);
+        border-radius: 4px;
+        width: 140px;
+        
+        border: groove 3px rgb(133, 220, 255);
+        color: antiquewhite;
+        
+        font-size: 11px;
+        font-weight: 400;
+        margin-bottom: 4%;
+        margin-top: 4%;
+      
+      
+}
+
+.warning {
+    color: red;
+    min-height: 20px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
